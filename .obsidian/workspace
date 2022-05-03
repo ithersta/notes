@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "7dc187ce6a799548",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff68fb6fddf59a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+ and - of free software.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62f5ebc3b5d5d81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cff7935544b0c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f14c828e683487",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20716a7f8f49816f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "f5c9e647bedd433f",
+    "type": "split",
+    "children": [
+      {
+        "id": "939cc3ecda0d6548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71acf1cd3f2275f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+ and - of free software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7ff68fb6fddf59a5",
+  "lastOpenFiles": [
+    "+ and - of free software.md",
+    "Отношения множеств.md"
+  ]
+}
