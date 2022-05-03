@@ -4,9 +4,12 @@ What is free software? According to the Free Software Foundation, a program is c
 2. Freedom 2 is to redistribute copies if you want and freedom 3 is to distribute modified versions. These two freedoms mean that you are free to share copies of the program, with or without modifications. You can offer them for free or you can sell them. You also have a freedom not to do it if you want your modifications to stay private.
 0. So they had this list of 3 freedoms around 1990s, but then they realized that the it is incomplete and there's one far more important requirement for software to be free. They called it freedom 0. It's a freedom to run the program. Any person or organization can use free software on any computer, for any purpose, without having to tell someone about it. But it doesn't mean that the program must be compatible with any computer or have functionality you need. It just means that you are not forbidden from making it run.
 So if a program gives users all of these freedoms, it is free software. Otherwise, it is nonfree.
-# Power
+# Control
+Let's start with the advantages.
+With free software, it's the user who controls the software. But if you use proprietary software, it's the owners of the program who has a power over you. And it tempts them to mistreat the users. In many cases proprietary programs spy on their users, restrict what they can with their data, and abuse them. For instance, Windows 10 automatically sends your drive encryption key to Microsoft. They can also load and execute any program on your computer though the Windows Update service without your consent.
 
 # Free software is more reliable
+Advantage number 2 is that free software is more reliable.
 Barton Miller with his colleagues did scientific tests of the reliability of Unix system programs in 1990s. They tested seven proprietary Unix systems and GNU. And each time GNU was ahead of competitors.
 They found that nonfree Unix systems had a failure rate from 15% to 40%. In contrast, the failure rate of GNU was only 7%.
 It's not just a coincidence. There are good reasons why free software is often more reliable. Firstly, the whole community is involved in fixing problems, people not only report bugs, they also fix them and share their fixes. Secondly, when developers know that their code will be public, they try to make it as clean and simple as possible to earn a good reputation in the community.
