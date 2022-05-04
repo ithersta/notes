@@ -16,3 +16,5 @@ It's not just a coincidence. There are good reasons why free software is often m
 # Free software is not perfect
 But free software is not perfect. Free programs may contain bugs or lack some features. And it's normal, projects tend to become better overtime.
 What's worse is that most open source projects are not what you imagine when you hear "open source", they are not like Linux or some other big projects because the average number of contributors to a free software project is one. There is no code review or any kind of collaboration in such projects. So they don't get any practical advantage over proprietary software. But at least they still give you freedom.
+# What you can do
+Although it is impractical to run 100% free software at the moment, you can still help us reach the ultimate goal of a world without nonfree software. Each time you reject a proprietary program in favour of its free alternative, you make a little step towards that goal. Eventually it all adds up and not only you get more freedom, you also help your whole community.
