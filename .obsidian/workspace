@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+ and - of free software.md",
+            "file": "english/monologues/4. Programming languages.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ and - of free software.md",
+                "file": "english/monologues/4. Programming languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,12 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "+ and - of free software.md",
-    "Отношения множеств.md"
+    "english/monologues/4. Programming languages.md",
+    "english/monologues/3. Operating systems.md",
+    "english/monologues/2. Computer essentials.md",
+    "english/monologues/1. Living in a Digital Age.md",
+    "english/Monologues 2022.md",
+    "english/+ and - of free software.md",
+    "discrete/Отношения множеств.md"
   ]
 }
