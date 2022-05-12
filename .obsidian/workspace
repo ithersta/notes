@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "english/monologues/3. Operating systems.md",
+            "file": "english/monologues/1. Living in a Digital Age.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/monologues/3. Operating systems.md",
+                "file": "english/monologues/1. Living in a Digital Age.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "english/monologues/3. Operating systems.md",
-    "english/monologues/4. Programming languages.md",
     "english/monologues/1. Living in a Digital Age.md",
     "english/monologues/2. Computer essentials.md",
+    "english/monologues/4. Programming languages.md",
+    "english/monologues/3. Operating systems.md",
     "english/Monologues 2022.md",
     "english/+ and - of free software.md",
     "discrete/Отношения множеств.md"
