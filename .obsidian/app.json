@@ -6,5 +6,6 @@
   "spellcheckLanguages": [
     "ru",
     "en-US"
-  ]
+  ],
+  "attachmentFolderPath": "mathmodels/images"
 }

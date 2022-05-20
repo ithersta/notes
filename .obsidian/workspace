@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/Фазовые портреты.md",
-            "mode": "preview",
+            "file": "mathmodels/topics/2. Анализ линейных моделей.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/Фазовые портреты.md",
+                "file": "mathmodels/topics/2. Анализ линейных моделей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +90,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/Фазовые портреты.md",
+    "mathmodels/topics/2. Анализ линейных моделей.md",
     "mathmodels/Разделы.md",
-    "english/monologues/1. Living in a Digital Age.md",
-    "english/monologues/2. Computer essentials.md",
-    "english/monologues/4. Programming languages.md",
-    "english/monologues/3. Operating systems.md",
+    "mathmodels/topics/1. Фазовые портреты.md",
+    "mathmodels/images/focus.png",
+    "discrete/Отношения множеств.md",
     "english/Monologues 2022.md",
     "english/+ and - of free software.md",
-    "discrete/Отношения множеств.md"
+    "english/monologues/1. Living in a Digital Age.md",
+    "english/monologues/4. Programming languages.md",
+    "english/monologues/3. Operating systems.md"
   ]
 }
