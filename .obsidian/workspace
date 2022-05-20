@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "english/monologues/1. Living in a Digital Age.md",
-            "mode": "source",
+            "file": "mathmodels/Фазовые портреты.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/monologues/1. Living in a Digital Age.md",
+                "file": "mathmodels/Фазовые портреты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
+    "mathmodels/Фазовые портреты.md",
+    "mathmodels/Разделы.md",
     "english/monologues/1. Living in a Digital Age.md",
     "english/monologues/2. Computer essentials.md",
     "english/monologues/4. Programming languages.md",
