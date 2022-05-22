@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/topics/1. Фазовые портреты.md",
+            "file": "mathmodels/topics/3. Анализ нелинейных моделей.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/topics/1. Фазовые портреты.md",
+                "file": "mathmodels/topics/3. Анализ нелинейных моделей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +90,10 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/topics/1. Фазовые портреты.md",
-    "mathmodels/topics/2. Анализ линейных моделей.md",
     "mathmodels/topics/3. Анализ нелинейных моделей.md",
     "mathmodels/Разделы.md",
+    "mathmodels/topics/2. Анализ линейных моделей.md",
+    "mathmodels/topics/1. Фазовые портреты.md",
     "Untitled.md",
     "mathmodels/images/focus.png",
     "discrete/Отношения множеств.md",
