@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/topics/3. Анализ нелинейных моделей.md",
+            "file": "mathmodels/topics/4. Анализ нелинейных моделей (продолжение).md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/topics/3. Анализ нелинейных моделей.md",
+                "file": "mathmodels/topics/4. Анализ нелинейных моделей (продолжение).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/topics/3. Анализ нелинейных моделей.md",
+    "mathmodels/topics/4. Анализ нелинейных моделей (продолжение).md",
     "mathmodels/Разделы.md",
+    "mathmodels/topics/3. Анализ нелинейных моделей.md",
     "mathmodels/topics/2. Анализ линейных моделей.md",
     "mathmodels/topics/1. Фазовые портреты.md",
     "Untitled.md",
     "mathmodels/images/focus.png",
     "discrete/Отношения множеств.md",
     "english/Monologues 2022.md",
-    "english/+ and - of free software.md",
-    "english/monologues/1. Living in a Digital Age.md"
+    "english/+ and - of free software.md"
   ]
 }
