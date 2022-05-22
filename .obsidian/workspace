@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -91,10 +90,10 @@
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
     "mathmodels/topics/3. Анализ нелинейных моделей.md",
-    "mathmodels/Разделы.md",
-    "Untitled.md",
     "mathmodels/topics/2. Анализ линейных моделей.md",
     "mathmodels/topics/1. Фазовые портреты.md",
+    "mathmodels/Разделы.md",
+    "Untitled.md",
     "mathmodels/images/focus.png",
     "discrete/Отношения множеств.md",
     "english/Monologues 2022.md",
