@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
+            "file": "mathmodels/Вопросы.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
+                "file": "mathmodels/Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
+    "mathmodels/Вопросы.md",
     "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
     "mathmodels/topics/3. Анализ нелинейных моделей.md",
     "mathmodels/topics/5. Хаотические аттракторы (нелинейные модели).md",
@@ -106,7 +107,6 @@
     "mathmodels/topics/1. Фазовые портреты.md",
     "Untitled.md",
     "mathmodels/images/focus.png",
-    "discrete/Отношения множеств.md",
-    "english/Monologues 2022.md"
+    "discrete/Отношения множеств.md"
   ]
 }
