@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
+            "file": "mathmodels/Вопросы.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
+                "file": "mathmodels/Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
-    "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
     "mathmodels/Вопросы.md",
-    "mathmodels/questions/11. Методы получения стационарных решений. Метод продолжения по параметру..md",
-    "mathmodels/topics/3. Анализ нелинейных моделей.md",
-    "mathmodels/questions/10. Понятие бифуркации. Точки ветвления и поворота, бифуркация Андронова-Хопфа..md",
-    "mathmodels/questions/12. Определение бифуркационных точек поворота, ветвления, Андронова-Хопфа..md",
-    "mathmodels/questions/8. Анализ нелинейных моделей. Основные этапы. Теорема о неявных функциях. Классификация равновесных точек и их устойчивость..md",
+    "mathmodels/questions/12. Определение бифуркационных точек поворота, ветвления, Андронова-Хопфа.md",
+    "mathmodels/questions/11. Методы получения стационарных решений.md",
+    "mathmodels/questions/10. Понятие бифуркации.md",
+    "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
+    "mathmodels/questions/8. Анализ нелинейных моделей. Основные этапы.md",
     "mathmodels/questions/7. Управление устойчивостью в линейной динамической модели.md",
-    "mathmodels/questions/6. Анализ чувствительности. Чувствительность составляющих решения к вариации параметров..md"
+    "mathmodels/questions/6. Анализ чувствительности.md",
+    "mathmodels/questions/5. Наблюдаемость отдельных составляющих решения линейной системы.md",
+    "mathmodels/questions/4. Получение решения линейной модели (построение матричной экспоненты и интеграла от нее).md"
   ]
 }
