@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md",
+            "file": "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md",
+                "file": "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md",
+    "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
+    "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
     "mathmodels/Вопросы.md",
+    "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md",
     "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
     "mathmodels/questions/10. Понятие бифуркации.md",
     "mathmodels/questions/12. Определение бифуркационных точек поворота, ветвления, Андронова-Хопфа.md",
-    "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
     "mathmodels/questions/11. Методы получения стационарных решений.md",
     "mathmodels/questions/8. Анализ нелинейных моделей. Основные этапы.md",
-    "mathmodels/questions/7. Управление устойчивостью в линейной динамической модели.md",
-    "mathmodels/questions/6. Анализ чувствительности.md"
+    "mathmodels/questions/7. Управление устойчивостью в линейной динамической модели.md"
   ]
 }
