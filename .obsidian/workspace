@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
+            "file": "mathmodels/Вопросы.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\mu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "f5c9e647bedd433f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
+                "file": "mathmodels/Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
-    "mathmodels/topics/4. Предельные циклы (нелинейные модели).md",
     "mathmodels/Вопросы.md",
-    "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md",
-    "mathmodels/questions/9. Понятие орбитальной устойчивости.md",
-    "mathmodels/questions/10. Понятие бифуркации.md",
-    "mathmodels/questions/12. Определение бифуркационных точек поворота, ветвления, Андронова-Хопфа.md",
-    "mathmodels/questions/11. Методы получения стационарных решений.md",
-    "mathmodels/questions/8. Анализ нелинейных моделей. Основные этапы.md",
-    "mathmodels/questions/7. Управление устойчивостью в линейной динамической модели.md"
+    "mathmodels/questions/18. Компонентные и топологические уравнения на макроуровне..md",
+    "mathmodels/questions/17. Фрактальные размерности. Аттрактор Лоренца..md",
+    "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы, пример механизма их возникновения (явление Фейгенбаума, субгармонический каскад)..md",
+    "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
+    "mathmodels/questions/25. Алгоритмы склеивания вершин и обрезания хвостов..md",
+    "mathmodels/questions/30. Понятие антиинтуитивных систем, их признаки и типичные ошибки при принятии.md",
+    "mathmodels/questions/28. Возмущения по параметру.md",
+    "mathmodels/questions/27. Символы порядка и калибровочные функции. Асимптотические разложения.md",
+    "mathmodels/questions/26. Элементы теории возмущений. Приведение уравнений к безразмерной форме. Возмущения.md"
   ]
 }
