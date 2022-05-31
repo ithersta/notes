@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md",
+            "file": "mathmodels/questions/23. Метод переменных состояния без топологических вырождений.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md",
+                "file": "mathmodels/questions/23. Метод переменных состояния без топологических вырождений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md",
+    "mathmodels/questions/23. Метод переменных состояния без топологических вырождений.md",
     "mathmodels/Вопросы.md",
-    "mathmodels/questions/18. Компонентные и топологические уравнения на макроуровне..md",
-    "mathmodels/questions/17. Фрактальные размерности. Аттрактор Лоренца..md",
-    "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
-    "mathmodels/questions/25. Алгоритмы склеивания вершин и обрезания хвостов..md",
-    "mathmodels/questions/30. Понятие антиинтуитивных систем, их признаки и типичные ошибки при принятии.md",
+    "mathmodels/topics/5. Хаотические аттракторы (нелинейные модели).md",
+    "mathmodels/questions/22. Некоторые сведения из теории графов. Метод переменных состояния.md",
+    "mathmodels/questions/21. Анализ интегро-дифференциальных уравнений методом сведения к системе дифференциальных уравнений.md",
+    "mathmodels/questions/20. Узловой метод анализа.md",
     "mathmodels/questions/28. Возмущения по параметру.md",
-    "mathmodels/questions/27. Символы порядка и калибровочные функции. Асимптотические разложения.md",
-    "mathmodels/questions/26. Элементы теории возмущений. Приведение уравнений к безразмерной форме. Возмущения.md"
+    "mathmodels/questions/19. Автоматизация построения математического описания. Свойства матрицы инциденций..md",
+    "mathmodels/questions/18. Компонентные и топологические уравнения на макроуровне..md",
+    "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md"
   ]
 }
