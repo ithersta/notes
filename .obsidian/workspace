@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathmodels/questions/22. Некоторые сведения из теории графов. Метод переменных состояния.md",
+            "file": "english/exam/Theme 4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathmodels/questions/22. Некоторые сведения из теории графов. Метод переменных состояния.md",
+                "file": "english/exam/Theme 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "7ff68fb6fddf59a5",
   "lastOpenFiles": [
-    "mathmodels/questions/22. Некоторые сведения из теории графов. Метод переменных состояния.md",
-    "mathmodels/questions/21. Анализ интегро-дифференциальных уравнений методом сведения к системе дифференциальных уравнений.md",
-    "mathmodels/questions/20. Узловой метод анализа.md",
-    "mathmodels/questions/19. Автоматизация построения математического описания. Свойства матрицы инциденций..md",
-    "mathmodels/questions/18. Компонентные и топологические уравнения на макроуровне..md",
-    "mathmodels/questions/17. Фрактальные размерности. Аттрактор Лоренца..md",
-    "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md",
-    "mathmodels/questions/15. Построение бифуркационных диаграмм для периодических решений.md",
-    "mathmodels/questions/14. Виды бифуркации периодического решения. Отображение Пуанкаре.md",
-    "mathmodels/questions/13. Получение периодического решения, его орбитальная устойчивость.md"
+    "english/exam/Theme 4.md",
+    "english/monologues/4. Programming languages.md",
+    "english/exam/Theme 3.md",
+    "english/+ and - of free software.md",
+    "english/exam/Theme 1.md",
+    "english/exam/Theme 2.md",
+    "english/exam/Smart machines.md",
+    "english/exam/Smart city.md",
+    "english/monologues/1. Living in a Digital Age.md",
+    "mathmodels/questions/16. Понятие аттрактора. Странные аттракторы.md"
   ]
 }
